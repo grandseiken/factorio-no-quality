@@ -1,4 +1,4 @@
-for _, v in pairs(data.raw.quality) do
+for _, v in pairs(data.raw.recipe) do
   v.allow_quality = false
 end
 

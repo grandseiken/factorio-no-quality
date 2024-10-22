@@ -13,3 +13,5 @@ Once you have researched the quality mechanic, a significant number of in-game U
 * Quality modules
 * Quality tiers other than "normal"
 * Related technologies and achievements.
+
+The end result is quality just won't ever show up or get in the way anywhere.

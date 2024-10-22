@@ -7,6 +7,6 @@
   "homepage": "https://discord.gg/GAvypzwyWU",
   "factorio_version": "2.0",
   "dependencies": [],
-  "requires_quality": true,
+  "quality_required": true,
   "description": "Removes the quality mechanic from the game."
 }

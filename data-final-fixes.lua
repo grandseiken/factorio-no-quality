@@ -1,7 +1,3 @@
-for _, v in pairs(data.raw.recipe) do
-  v.allow_quality = false
-end
-
 for k, v in pairs(data.raw.quality) do
   if k == "normal" or k == "quality-unknown" then
     v.hidden = true
